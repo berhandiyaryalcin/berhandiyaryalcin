@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Berhan Diyar Yalçın</h1>
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">Türkiyede tutkulu bir yazilimciyim</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berhandiyaryalcin&label=Profile%20views&color=0e75b6&style=flat" alt="berhandiyaryalcin" /> </p>
 
